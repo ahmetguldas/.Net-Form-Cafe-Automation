@@ -44,9 +44,10 @@ namespace TerasCafe.UI
             this.tsmiGecmisSiparisler});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(800, 40);
+            this.menuStrip1.Size = new System.Drawing.Size(1150, 40);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
+            this.menuStrip1.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // tsmiUrunler
             // 
@@ -66,7 +67,7 @@ namespace TerasCafe.UI
             this.lvMasalar.HideSelection = false;
             this.lvMasalar.Location = new System.Drawing.Point(0, 40);
             this.lvMasalar.Name = "lvMasalar";
-            this.lvMasalar.Size = new System.Drawing.Size(800, 410);
+            this.lvMasalar.Size = new System.Drawing.Size(1150, 626);
             this.lvMasalar.TabIndex = 1;
             this.lvMasalar.UseCompatibleStateImageBehavior = false;
             // 
@@ -74,7 +75,7 @@ namespace TerasCafe.UI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1150, 666);
             this.Controls.Add(this.lvMasalar);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
