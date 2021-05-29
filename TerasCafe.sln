@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerasCafe.UI", "TerasCafe.UI\TerasCafe.UI.csproj", "{DB5AAB78-CE49-46E3-801C-3020B98EC190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerasCafe.DATA", "TerasCafe.DATA\TerasCafe.DATA.csproj", "{7FDF5969-C0E3-407A-8714-2F9A0ACED4C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerasCafe.DATA", "TerasCafe.DATA\TerasCafe.DATA.csproj", "{2A133FBB-2CB0-4878-9171-F1291B996539}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{DB5AAB78-CE49-46E3-801C-3020B98EC190}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB5AAB78-CE49-46E3-801C-3020B98EC190}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB5AAB78-CE49-46E3-801C-3020B98EC190}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7FDF5969-C0E3-407A-8714-2F9A0ACED4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7FDF5969-C0E3-407A-8714-2F9A0ACED4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7FDF5969-C0E3-407A-8714-2F9A0ACED4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7FDF5969-C0E3-407A-8714-2F9A0ACED4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A133FBB-2CB0-4878-9171-F1291B996539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A133FBB-2CB0-4878-9171-F1291B996539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A133FBB-2CB0-4878-9171-F1291B996539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A133FBB-2CB0-4878-9171-F1291B996539}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
